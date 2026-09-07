@@ -1,7 +1,4 @@
-# student-management-system
-A Python-based Student Management System developed using Object-Oriented Programming.
 # Student Management System
-
 A Python-based Student Management System developed using
 Object-Oriented Programming principles.
 
